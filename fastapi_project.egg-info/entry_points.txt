@@ -1,0 +1,3 @@
+[console_scripts]
+fastapi-admin = cli:main
+fastapi_admin = cli:main
